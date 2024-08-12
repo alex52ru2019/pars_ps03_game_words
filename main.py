@@ -1,5 +1,5 @@
 # импорт библиотек
-# для работы установить пакеты bs4, requests и googletrans (версии 3.1.0а0)
+# для работы установить пакеты bs4, requests и пакет googletrans (версии 3.1.0а0)
 from bs4 import BeautifulSoup
 import requests
 from googletrans import Translator
